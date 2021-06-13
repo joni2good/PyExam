@@ -1,0 +1,18 @@
+printer called with ('Jonas er grim', 'og dette er en test') at 13:00:53 06-04-2021
+printer called with ('Jonas er grim',) at 13:01:07 06-04-2021
+printer called with ('Jonas er grim',) at 13:01:57 06-04-2021
+printer called with Jonas er grim at 13:02:04 06-04-2021
+printer called with Jonas er grim at 13:05:27 06-04-2021
+add called with 21 at 13:05:27 06-04-2021
+printer called with(Jonas er grim) at 13:06:54 06-04-2021
+add called with(21) at 13:06:54 06-04-2021
+printer called with(('Jonas er grim',)) at 13:07:36 06-04-2021
+add called with((12, 9)) at 13:07:36 06-04-2021
+printer called with (('Jonas er grim',)) and returned (Jonas er grim) at 13:08:20 06-04-2021
+add called with ((12, 9)) and returned (21) at 13:08:20 06-04-2021
+printer called with (('Jonas er grim',)) and returned (Jonas er grim) at 13:08:35 06-04-2021
+add called with ((12, 9)) and returned (21) at 13:08:35 06-04-2021
+printer called with (('Jonas er grim',)) and returned (Jonas er grim) at Time: 13:10:54 Date: 06-04-2021
+add called with ((12, 9)) and returned (21) at Time: 13:10:54 Date: 06-04-2021
+printer called with (('Jonas er grim',)) and returned (Jonas er grim) at Time: 12:04:36 Date: 11-05-2021
+add called with ((12, 9)) and returned (21) at Time: 12:04:36 Date: 11-05-2021
